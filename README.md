@@ -4,7 +4,7 @@
 
 This project is a custom 404 error page designed to provide a visually engaging experience when users encounter a broken or non-existent link on your website. The page features a dynamic slot machine animation, adding a fun and interactive element to the error message.
 
-![404 Error Page Screenshot](images/screenshot.png)
+![404 Error Page Screenshot]([images/screenshot.png](https://github.com/Shagungupta7/404-slot-machine/blob/main/Screenshot%202024-08-04%20214819.png))
 
 ## Features
 
