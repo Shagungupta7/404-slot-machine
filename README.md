@@ -9,6 +9,6 @@ This project is a custom 404 error page designed to provide a visually engaging 
 ## Features
 
 - **Slot Machine Animation:** The page includes an animated slot machine that rolls through various icons, creating an engaging visual effect.
-- **Dynamic Styling:** Uses CSS and SCSS for dynamic styling and animations.
+- **Dynamic Styling:** Uses CSS and Javascript for dynamic styling and animations.
 - **Responsive Design:** The design is responsive and adjusts to different screen sizes.
 
